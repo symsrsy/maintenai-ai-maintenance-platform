@@ -10,7 +10,7 @@ It combines traditional maintenance workflows with AI-assisted technical documen
 
 ## 🎥 Demo
 
-https://github.com/user-attachments/assets/YOUR_VIDEO_ID
+https://github.com/
 
 > The demo showcases the current working version of MaintenAI, including maintenance management workflows and AI-assisted technical knowledge retrieval.
 
