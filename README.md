@@ -19,6 +19,9 @@ https://github.com/user-attachments/assets/5db7ad1b-1b58-4cc3-862b-18b37749ced4
 
 DEMO URL: https://maintenance-ai-demo.onrender.com/
 
+Kullanıcı adı: seyma
+Şifre: Demo123456!
+
 ## ✨ Key Features
 
 ### 🏭 Machine Management
